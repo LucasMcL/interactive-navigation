@@ -1,0 +1,32 @@
+.navbar__ul {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	list-style: none;
+}
+
+.navbar__ul__a {
+	text-decoration: none;
+}
+
+.navbar__ul__li {
+	color: black;
+}
+
+.navbar__ul__li:hover {
+	color: goldenrod;
+	background-color: black;
+}
+
+.navbar__ul__li:active {
+	margin-left: 5px;
+	margin-right: 5px;
+	/*padding-left: 5px;
+	padding-right: 5px;*/
+}
+
+
+
+
+
+
